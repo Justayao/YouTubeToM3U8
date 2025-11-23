@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="RainyJazz.yt" tvg-name="Rainy Jazz: Relaxing Jazz & Bossa Nova Music Radio" group-title="Music", Rainy Jazz: Relaxing Jazz & Bossa Nova Music Radio
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763910886/ei/htAiae_jHqzbir4Picu5sAg/ip/20.168.119.87/id/DSGyEsJ17cI.457/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51673644/txs/51673643%2C51673644/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5SqSaa7KgcRRXEiRXtqhordOLH0xFaJ9UdKJnDcGQe_9ovGLwZGxkiF50F1MnMYr4eX8BSAxffh/spc/6b0G_Pl1Ldeq_Uq_wJQ-bk1wj7iBLbOvSQxt4K7MjI8OUlfArHSQFszqoPpYN9tylds/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfbZpXFy2q_vR-i3TXtJ6LehXI5xWWlaZXXqgiYyEwAcCICBzqawetcGTiCdb0zTMMwdUt7atTtD0UUxvrpGvKX0o/file/index.m3u8
 
 #EXTINF:-1 tvg-id="LittleSoul.yt" tvg-name="Little Soul: Music to put you in a better mood" group-title="Music", Little Soul: Music to put you in a better mood
 https://www.youtube.com/watch?v=1oh9IEwBbFY
@@ -103,4 +103,4 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="中天" tvg-name="中天新闻台" group-title="News", 中天新闻台
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763910892/ei/jNAiaYL5HK-k-coP2eSh-QM/ip/20.168.119.87/id/vr3XyVCR4T0.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51679570/txs/51679570%2C51679571%2C51679573/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5S7LkdmKrNwyTg9yJE1DXtPrcBzMrNBhg1mn5Qr9uBq53r5KNSXa11v3VS2F_vZrHGHEHelh70p/spc/6b0G_FKJgVfKRLVjIvdgqDWRSCG3pYBKTBarA9B8SAWpVE3FbTRCbUT8NhDFhPiDgEA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM8doPKRsd8k9kZD7-1_t2OcZAFWqv7VH-3W6zMyRhhoAiEAs0nMwzdprgxDwWIiPGDHPzPBIeqNIAMQmIVXjZi6otU%3D/file/index.m3u8

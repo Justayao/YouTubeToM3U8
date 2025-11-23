@@ -1,1 +1,88 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="RainyJazz.yt">
+    <display-name lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio</display-name>
+  </channel>
+  <programme channel="RainyJazz.yt" start="20251123090000 +0000" stop="20251123120000 +0000">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20251123120000 +0000" stop="20251123150000 +0000">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20251123150000 +0000" stop="20251123180000 +0000">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20251123180000 +0000" stop="20251123210000 +0000">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20251123210000 +0000" stop="20251124000000 +0000">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20251124000000 +0000" stop="20251124030000 +0000">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20251124030000 +0000" stop="20251124060000 +0000">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20251124060000 +0000" stop="20251124090000 +0000">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <channel id="中天">
+    <display-name lang="en">中天新闻台</display-name>
+  </channel>
+  <programme channel="中天" start="20251123090000 +0000" stop="20251123120000 +0000">
+    <title lang="en">【#中天新聞不斷電直播Live】 CTI中天新聞24小時HD新聞直播 │ CTITV Taiwan News HD Live｜台湾のHDニュース放送｜ 대만 HD 뉴스 방송@中天電視CtiTv</title>
+    <desc lang="en">#中天新聞 #24小時新聞直播 #不斷電直播 #中天電視 #新聞直播 #直播 #LIVE #監督的力量在中天📣支持監督的力量，請加入中天電視會員👉https://reurl.cc/pgZL9d✨專屬優惠價請輸入代碼【cti888】✨【保養抗老】買KS精華霜豐潤抗老：https://bit.ly/AR308c【...</desc>
+    <icon src="https://i.ytimg.com/vi/vr3XyVCR4T0/maxresdefault.jpg?v=68e9ddf1"/>
+  </programme>
+  <programme channel="中天" start="20251123120000 +0000" stop="20251123150000 +0000">
+    <title lang="en">【#中天新聞不斷電直播Live】 CTI中天新聞24小時HD新聞直播 │ CTITV Taiwan News HD Live｜台湾のHDニュース放送｜ 대만 HD 뉴스 방송@中天電視CtiTv</title>
+    <desc lang="en">#中天新聞 #24小時新聞直播 #不斷電直播 #中天電視 #新聞直播 #直播 #LIVE #監督的力量在中天📣支持監督的力量，請加入中天電視會員👉https://reurl.cc/pgZL9d✨專屬優惠價請輸入代碼【cti888】✨【保養抗老】買KS精華霜豐潤抗老：https://bit.ly/AR308c【...</desc>
+    <icon src="https://i.ytimg.com/vi/vr3XyVCR4T0/maxresdefault.jpg?v=68e9ddf1"/>
+  </programme>
+  <programme channel="中天" start="20251123150000 +0000" stop="20251123180000 +0000">
+    <title lang="en">【#中天新聞不斷電直播Live】 CTI中天新聞24小時HD新聞直播 │ CTITV Taiwan News HD Live｜台湾のHDニュース放送｜ 대만 HD 뉴스 방송@中天電視CtiTv</title>
+    <desc lang="en">#中天新聞 #24小時新聞直播 #不斷電直播 #中天電視 #新聞直播 #直播 #LIVE #監督的力量在中天📣支持監督的力量，請加入中天電視會員👉https://reurl.cc/pgZL9d✨專屬優惠價請輸入代碼【cti888】✨【保養抗老】買KS精華霜豐潤抗老：https://bit.ly/AR308c【...</desc>
+    <icon src="https://i.ytimg.com/vi/vr3XyVCR4T0/maxresdefault.jpg?v=68e9ddf1"/>
+  </programme>
+  <programme channel="中天" start="20251123180000 +0000" stop="20251123210000 +0000">
+    <title lang="en">【#中天新聞不斷電直播Live】 CTI中天新聞24小時HD新聞直播 │ CTITV Taiwan News HD Live｜台湾のHDニュース放送｜ 대만 HD 뉴스 방송@中天電視CtiTv</title>
+    <desc lang="en">#中天新聞 #24小時新聞直播 #不斷電直播 #中天電視 #新聞直播 #直播 #LIVE #監督的力量在中天📣支持監督的力量，請加入中天電視會員👉https://reurl.cc/pgZL9d✨專屬優惠價請輸入代碼【cti888】✨【保養抗老】買KS精華霜豐潤抗老：https://bit.ly/AR308c【...</desc>
+    <icon src="https://i.ytimg.com/vi/vr3XyVCR4T0/maxresdefault.jpg?v=68e9ddf1"/>
+  </programme>
+  <programme channel="中天" start="20251123210000 +0000" stop="20251124000000 +0000">
+    <title lang="en">【#中天新聞不斷電直播Live】 CTI中天新聞24小時HD新聞直播 │ CTITV Taiwan News HD Live｜台湾のHDニュース放送｜ 대만 HD 뉴스 방송@中天電視CtiTv</title>
+    <desc lang="en">#中天新聞 #24小時新聞直播 #不斷電直播 #中天電視 #新聞直播 #直播 #LIVE #監督的力量在中天📣支持監督的力量，請加入中天電視會員👉https://reurl.cc/pgZL9d✨專屬優惠價請輸入代碼【cti888】✨【保養抗老】買KS精華霜豐潤抗老：https://bit.ly/AR308c【...</desc>
+    <icon src="https://i.ytimg.com/vi/vr3XyVCR4T0/maxresdefault.jpg?v=68e9ddf1"/>
+  </programme>
+  <programme channel="中天" start="20251124000000 +0000" stop="20251124030000 +0000">
+    <title lang="en">【#中天新聞不斷電直播Live】 CTI中天新聞24小時HD新聞直播 │ CTITV Taiwan News HD Live｜台湾のHDニュース放送｜ 대만 HD 뉴스 방송@中天電視CtiTv</title>
+    <desc lang="en">#中天新聞 #24小時新聞直播 #不斷電直播 #中天電視 #新聞直播 #直播 #LIVE #監督的力量在中天📣支持監督的力量，請加入中天電視會員👉https://reurl.cc/pgZL9d✨專屬優惠價請輸入代碼【cti888】✨【保養抗老】買KS精華霜豐潤抗老：https://bit.ly/AR308c【...</desc>
+    <icon src="https://i.ytimg.com/vi/vr3XyVCR4T0/maxresdefault.jpg?v=68e9ddf1"/>
+  </programme>
+  <programme channel="中天" start="20251124030000 +0000" stop="20251124060000 +0000">
+    <title lang="en">【#中天新聞不斷電直播Live】 CTI中天新聞24小時HD新聞直播 │ CTITV Taiwan News HD Live｜台湾のHDニュース放送｜ 대만 HD 뉴스 방송@中天電視CtiTv</title>
+    <desc lang="en">#中天新聞 #24小時新聞直播 #不斷電直播 #中天電視 #新聞直播 #直播 #LIVE #監督的力量在中天📣支持監督的力量，請加入中天電視會員👉https://reurl.cc/pgZL9d✨專屬優惠價請輸入代碼【cti888】✨【保養抗老】買KS精華霜豐潤抗老：https://bit.ly/AR308c【...</desc>
+    <icon src="https://i.ytimg.com/vi/vr3XyVCR4T0/maxresdefault.jpg?v=68e9ddf1"/>
+  </programme>
+  <programme channel="中天" start="20251124060000 +0000" stop="20251124090000 +0000">
+    <title lang="en">【#中天新聞不斷電直播Live】 CTI中天新聞24小時HD新聞直播 │ CTITV Taiwan News HD Live｜台湾のHDニュース放送｜ 대만 HD 뉴스 방송@中天電視CtiTv</title>
+    <desc lang="en">#中天新聞 #24小時新聞直播 #不斷電直播 #中天電視 #新聞直播 #直播 #LIVE #監督的力量在中天📣支持監督的力量，請加入中天電視會員👉https://reurl.cc/pgZL9d✨專屬優惠價請輸入代碼【cti888】✨【保養抗老】買KS精華霜豐潤抗老：https://bit.ly/AR308c【...</desc>
+    <icon src="https://i.ytimg.com/vi/vr3XyVCR4T0/maxresdefault.jpg?v=68e9ddf1"/>
+  </programme>
+</tv>
