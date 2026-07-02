@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="EuronewsEN.yt">
+    <display-name lang="en">Euronews</display-name>
+  </channel>
+  <programme channel="EuronewsEN.yt" start="20260702160000 +0100" stop="20260702190000 +0100">
+    <title lang="en">Euronews English Live</title>
+    <desc lang="en">Watch the latest breaking news available 24/7 on Euronews.▶︎ Subscribe to our channel to follow the latest news: https://www.youtube.com/c/euronews?sub_confi...</desc>
+    <icon src="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg?v=63eb92d4"/>
+  </programme>
+  <programme channel="EuronewsEN.yt" start="20260702190000 +0100" stop="20260702220000 +0100">
+    <title lang="en">Euronews English Live</title>
+    <desc lang="en">Watch the latest breaking news available 24/7 on Euronews.▶︎ Subscribe to our channel to follow the latest news: https://www.youtube.com/c/euronews?sub_confi...</desc>
+    <icon src="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg?v=63eb92d4"/>
+  </programme>
+  <programme channel="EuronewsEN.yt" start="20260702220000 +0100" stop="20260703010000 +0100">
+    <title lang="en">Euronews English Live</title>
+    <desc lang="en">Watch the latest breaking news available 24/7 on Euronews.▶︎ Subscribe to our channel to follow the latest news: https://www.youtube.com/c/euronews?sub_confi...</desc>
+    <icon src="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg?v=63eb92d4"/>
+  </programme>
+  <programme channel="EuronewsEN.yt" start="20260703010000 +0100" stop="20260703040000 +0100">
+    <title lang="en">Euronews English Live</title>
+    <desc lang="en">Watch the latest breaking news available 24/7 on Euronews.▶︎ Subscribe to our channel to follow the latest news: https://www.youtube.com/c/euronews?sub_confi...</desc>
+    <icon src="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg?v=63eb92d4"/>
+  </programme>
+  <programme channel="EuronewsEN.yt" start="20260703040000 +0100" stop="20260703070000 +0100">
+    <title lang="en">Euronews English Live</title>
+    <desc lang="en">Watch the latest breaking news available 24/7 on Euronews.▶︎ Subscribe to our channel to follow the latest news: https://www.youtube.com/c/euronews?sub_confi...</desc>
+    <icon src="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg?v=63eb92d4"/>
+  </programme>
+  <programme channel="EuronewsEN.yt" start="20260703070000 +0100" stop="20260703100000 +0100">
+    <title lang="en">Euronews English Live</title>
+    <desc lang="en">Watch the latest breaking news available 24/7 on Euronews.▶︎ Subscribe to our channel to follow the latest news: https://www.youtube.com/c/euronews?sub_confi...</desc>
+    <icon src="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg?v=63eb92d4"/>
+  </programme>
+  <programme channel="EuronewsEN.yt" start="20260703100000 +0100" stop="20260703130000 +0100">
+    <title lang="en">Euronews English Live</title>
+    <desc lang="en">Watch the latest breaking news available 24/7 on Euronews.▶︎ Subscribe to our channel to follow the latest news: https://www.youtube.com/c/euronews?sub_confi...</desc>
+    <icon src="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg?v=63eb92d4"/>
+  </programme>
+  <programme channel="EuronewsEN.yt" start="20260703130000 +0100" stop="20260703160000 +0100">
+    <title lang="en">Euronews English Live</title>
+    <desc lang="en">Watch the latest breaking news available 24/7 on Euronews.▶︎ Subscribe to our channel to follow the latest news: https://www.youtube.com/c/euronews?sub_confi...</desc>
+    <icon src="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg?v=63eb92d4"/>
+  </programme>
+</tv>
